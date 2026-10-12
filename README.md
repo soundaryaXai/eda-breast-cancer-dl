@@ -1,7 +1,7 @@
 # EDA, Visualization & Deep Learning – Breast Cancer Wisconsin (Diagnostic)
 
 **Course:** U21ADP05 – Exploratory Data Analysis and Visualization | **Assignment II (Case Study)**
-**Student:** <YOUR NAME> (<ROLL NO>) | AI & DS, KPR Institute of Engineering and Technology
+**Student:** Soundarya B (24AD111) | AI & DS, KPR Institute of Engineering and Technology
 
 ## Problem
 Classify breast tumours as **benign or malignant** from 30 numeric cell-nucleus measurements (FNA images) and understand which features drive the diagnosis.
